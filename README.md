@@ -3,6 +3,18 @@ Diplomatura de Ciencia de Datos para CCSS y Gestión Pública 2024-2
 
 Indice
 
-PD1
+#### CLASE_1
 
-PD2
+#### CLASE_2
+
+#### CLASE_3
+
+#### CLASE_4
+
+#### CLASE_5
+
+#### CLASE_6
+
+#### CLASE_7
+
+#### CLASE_8
