@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=RG0aEMy-irA
 https://www.youtube.com/watch?v=2V00EeosZ2k
 
 #### CLASE_3
+https://www.youtube.com/watch?v=FVziidS6m3I
 
 #### CLASE_4
 
