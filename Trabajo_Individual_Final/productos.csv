@@ -1,0 +1,51 @@
+﻿id_producto,nombre,precio,stock
+1,Laptop Lenovo ThinkPad T14,899.99,15
+2,Smartphone Samsung Galaxy S21,699.99,25
+3,Tablet Apple iPad Air,599.99,20
+4,Monitor Dell 24' LED,199.99,30
+5,Teclado mecánico Logitech K840,89.99,50
+6,Ratón inalámbrico Logitech M720,49.99,60
+7,Auriculares Bose QuietComfort,299.99,10
+8,Impresora HP LaserJet Pro,149.99,18
+9,Disco Duro Externo Seagate 1TB,79.99,40
+10,Memoria USB SanDisk 64GB,19.99,100
+11,Smartwatch Apple Watch Series 6,399.99,22
+12,Cámara digital Canon EOS Rebel,549.99,12
+13,Altavoz Bluetooth JBL Flip 5,129.99,35
+14,Router TP-Link Archer C7,59.99,45
+15,Monitor LG 27' 4K,349.99,17
+16,Laptop Dell Inspiron 15,749.99,14
+17,Tablet Samsung Galaxy Tab S7,649.99,19
+18,Teclado inalámbrico Microsoft Sculpt,99.99,28
+19,Ratón gaming Razer DeathAdder,69.99,50
+20,Auriculares Sony WH-1000XM4,349.99,16
+21,Monitor Asus 23' Full HD,159.99,24
+22,Laptop HP Pavilion 14,699.99,13
+23,Smartphone OnePlus 9,729.99,21
+24,Tablet Huawei MatePad Pro,499.99,20
+25,Cámara de acción GoPro Hero9,399.99,15
+26,Micrófono Blue Yeti,129.99,27
+27,Tarjeta gráfica NVIDIA GeForce RTX 3060,499.99,8
+28,Fuente de poder Corsair 650W,89.99,32
+29,Placa base MSI B450,119.99,30
+30,Memoria RAM Corsair 16GB,79.99,40
+31,SSD Samsung 970 EVO 500GB,149.99,22
+32,Laptop Acer Aspire 5,649.99,18
+33,Smartphone Xiaomi Mi 11,599.99,25
+34,Tablet Microsoft Surface Go,399.99,19
+35,Teclado gaming Corsair K70,159.99,30
+36,Ratón Logitech G502,79.99,35
+37,Auriculares gaming HyperX Cloud II,99.99,29
+38,Monitor BenQ 32' 4K,429.99,16
+39,Laptop Asus ZenBook 14,849.99,14
+40,Smartphone Google Pixel 5,699.99,20
+41,Tablet Amazon Fire HD 10,149.99,40
+42,Impresora Epson EcoTank,249.99,12
+43,Disco duro interno Western Digital 2TB,89.99,26
+44,Memoria USB Kingston 128GB,29.99,60
+45,Smartwatch Garmin Forerunner 245,299.99,15
+46,Cámara deportiva Sony Action Cam,199.99,18
+47,Altavoz inteligente Amazon Echo,99.99,32
+48,Router Netgear Nighthawk,129.99,22
+49,Monitor Samsung 34' Curvo,499.99,10
+50,Laptop Microsoft Surface Laptop 4,1199.99,8

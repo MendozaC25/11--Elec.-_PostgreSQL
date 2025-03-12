@@ -11,13 +11,13 @@
 --     psql
 --     CREATE DATABASE Northwind;
 --     Copy and paste the SQL below into the terminal window to create the Northwind database.
-
 CREATE TABLE Categories
 (      
     CategoryID SERIAL PRIMARY KEY,
     CategoryName VARCHAR(25),
     Description VARCHAR(255)
 );
+
 
 CREATE TABLE Customers
 (      
